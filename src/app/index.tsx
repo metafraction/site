@@ -6,7 +6,7 @@ function App() {
     return (
         <div className="App">
             <div className="header-info">
-                <h1 className="app-title">Name</h1>
+                <h1 className="app-title">Mkdir</h1>
                 <p className="project-source">
                     <a
                         target="_blank"
