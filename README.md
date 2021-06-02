@@ -33,6 +33,6 @@ yarn build
 ```
 
 This builds the app for production in the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and and the app is now ready to be deployed!
