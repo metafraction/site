@@ -23,7 +23,7 @@ const Canvas: FC = () => {
                     id="canvas"
                     ref={canvasRef}
                     width={width}
-                    height={height}
+                    height={600}
                 ></canvas>
                 <Wave />
             </CanvasContext.Provider>
