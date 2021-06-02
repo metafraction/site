@@ -9,8 +9,8 @@ Live URL: https://mkdir01.github.io/site/
 ## Installation
 
 ```
-git clone https://github.com/ashiishme/react-sine-wave.git
-cd react-sine-wave
+git clone https://github.com/mkdir01/site.git
+cd site
 ```
 
 In the project directory, run:
