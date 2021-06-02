@@ -4,7 +4,7 @@ Sine wave animation using React &amp; Typescript and Canvas API
 
 ## Demo
 
-Deployed URL: https://mkdir01.github.io/site/
+Live URL: https://mkdir01.github.io/site/
 
 ## Installation
 
